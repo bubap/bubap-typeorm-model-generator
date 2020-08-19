@@ -32,7 +32,7 @@ export default abstract class AbstractDriver {
 
     public ColumnTypesWithPrecision: WithPrecisionColumnType[] = [
         "float",
-        "double",
+        // "double",
         "dec",
         "decimal",
         "numeric",
